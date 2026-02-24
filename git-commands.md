@@ -79,5 +79,11 @@
 
 - `hit remote set-url origin <url>` : change the origin url.
 
-- 
+- `git fetch origin <main>` : Fetches the changes not merges the changes
+
+- `git pull origin <main>` : Fetch and merge changes from remote repo
+
+- `git push origin <main>` : push the changes from local to remote repository.
+
+
 
