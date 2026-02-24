@@ -1,3 +1,6 @@
 Login Feature
 Login Validation
 HotFix on main branch
+SignUp Feature
+SignUp Validation
+
