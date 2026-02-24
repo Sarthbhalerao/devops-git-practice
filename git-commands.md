@@ -66,7 +66,7 @@
 - `git reset` : It moves HEAD pointer back by one , deleting commits & without laving history behind.
 
   - `git reset --soft <hash>` : It removes commit id only
-  - `git reset --mixed <hash> : It removes commit id and keeps the working tree as it is.
+  - `git reset --mixed <hash>` : It removes commit id and keeps the working tree as it is.
   - `git reset --hard <hash>` ; remove commit id and also remove working tree.
  
 - `git rebase <branch>` : It integrates changes by replaying your commits on top of the latest state of another branch , creating cleaner and linear history.
